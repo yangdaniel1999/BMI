@@ -14,5 +14,6 @@ public static void main(String[] args) {
 	double bmi = gewicht / koerper * koerper; 
 	
 	System.out.println("Der BMI beträgt: " + bmi);
+	System.out.println("Hallo Test");
 }
 }
